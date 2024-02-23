@@ -1,0 +1,13 @@
+/backend-booking/node_modules
+
+# dependencies
+/client-booking/node_modules
+/client-booking/.pnp
+
+# testing
+/client-booking/coverage
+
+# productio
+/client-booking/build
+
+booking-tickets.zip
